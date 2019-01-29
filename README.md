@@ -2,7 +2,7 @@
 
 The [Cap Table and Exit Waterfall Tool](https://foresight.is/cap-table) is a financial model template to create a cap table through multiple rounds of investments, and forecast how investment rounds impact ownership, dilution, valuations, and distribution of proceeds to entrepreneurs and investors through a detailed exit waterfall. Used by investors, lawyers, and pre-seed, Seed, A, B, C, and post-funding stage companies. Unlocked - use in Excel or Google Sheets, edit anything - last updated in January 2019.
 
-[![Cap Table and Exit Waterfall](https://foresight.is/assets/img/external/cap_table_demo.png)](https://foresight.is/learn/cap-table-overview)
+[![Cap Table and Exit Waterfall](https://foresight.is/assets/img/external/cap_table.png)](https://foresight.is/learn/cap-table-overview)
 
 ## Overview
 Financial model template to create a capitalization table through multiple rounds of investments, and forecast how investment rounds impact ownership, dilution, valuations, and distribution of proceeds to entrepreneurs and investors through a detailed exit waterfall.
